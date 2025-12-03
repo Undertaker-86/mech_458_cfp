@@ -74,6 +74,7 @@ const float KD_M1 = 0.0;
 // const float KP_M2 = 0.3;
 // const float KI_M2 = 0.0005;
 // const float KD_M2 = 0.02;
+// Oliver is STUPID
 const float KP_M2 = 0.4;
 const float KI_M2 = 0.1;
 const float KD_M2 = 0.00;
